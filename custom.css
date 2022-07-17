@@ -1,0 +1,20 @@
+.bmiContainer {
+  padding: 50px 0;
+  padding-left: 10%;
+}
+
+.card-bodyCustom {
+  background-color: #7ee8fa;
+  background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);
+}
+
+.text-input {
+  border-radius: 10%;
+}
+
+main {
+  margin-top: 4%;
+}
+body {
+  background-image: url('img/backg.jpg');
+}
